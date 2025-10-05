@@ -1,0 +1,2 @@
+# CheckPatternCollection
+YMM4にチェック柄の模様5種類を追加するプラグイン
